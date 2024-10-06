@@ -6,11 +6,11 @@ full-stack developer
 
 Passionate software developer focusing on web development using javascript, an all-rounder who loves to read and write in technology, I have experience in javascript and web development. Developer in many technology companies. I work as a full-stack web developer I've worked with several languages (JavaScript, OOP, HTML, CSS, SASS, React, jQuery, Ajax, Bootstrap, node.js, express.js, mongoDB, react.js, SQL) and built experience in developing interactive platforms that generate benefits for your company.
 
-* 🌍  I'm based in Rotterdam,Netherlands
+* 🌍  I'm based in Rotterdam, Netherlands
 * ✉️  You can contact me at [eslameltaieb74@gmail.com](mailto:eslameltaieb74@gmail.com)
 * 🚀  I'm currently working on [code matrix zone](http://https://bootcamp.matrixmaster.info/)
-* 🧠  I'm learning paython
-* ⚡  i like swimming, work out, traveling
+* 🧠  I'm learning Python
+* ⚡ I like swimming, working out, traveling
 
 ### Skills
 
